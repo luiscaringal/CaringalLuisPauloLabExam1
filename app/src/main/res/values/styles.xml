@@ -15,4 +15,8 @@
     <style name="secondary">
         <item name="android:background">@color/colorPrimaryLight</item>
     </style>
+
+    <style name="third">
+        <item name="android:background">@color/colorPrimaryDark</item>
+    </style>
 </resources>
