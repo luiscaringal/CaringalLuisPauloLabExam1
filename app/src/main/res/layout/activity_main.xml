@@ -161,7 +161,7 @@
         android:id="@+id/constraintLayout5"
         style="@style/secondary"
         android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_height="103dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/constraintLayout4">
@@ -211,7 +211,7 @@
         android:id="@+id/constraintLayout6"
         style="@style/header"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="107dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/constraintLayout5">
@@ -240,7 +240,7 @@
     <android.support.constraint.ConstraintLayout
         style="@style/third"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="266dp"
         android:layout_marginBottom="8dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
